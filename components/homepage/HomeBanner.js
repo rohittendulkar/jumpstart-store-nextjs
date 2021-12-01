@@ -1,14 +1,15 @@
-import React from 'react';
-import Link from 'next/link';
+/* eslint-disable quotes */
+import React from "react";
+import Link from "next/link";
 
 export default function HomeBanner() {
   return (
     <div className="p-5">
       <p
         className="font-size-display1 mt-5 text-center mx-auto text-uppercase"
-        style={{ maxWidth: '53rem' }}
+        style={{ maxWidth: "53rem" }}
       >
-        Moisture is the essence of wetness, and wetness is the essence of beauty.
+        JumpStart Products are crafted to provide the ultimate performance for gaming and work.
       </p>
       <div className="d-flex align-items-center justify-content-center mt-3 mb-5">
         <Link href="/about">

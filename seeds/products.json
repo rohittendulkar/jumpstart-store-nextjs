@@ -1,22 +1,22 @@
 [
   {
     "product": {
-      "name": "Face & Body Roller",
-      "description": "Enrich your morning and evening beauty ritual and to help reduce the appearance of puffiness and wrinkles",
-      "price": "18.00",
+      "name": "Streaming PC",
+      "description": "Alongside the GEFORCE RTX graphics card, all components in the Streaming PC were hand-selected to run the most popular games beautifully while smoothly operating your stream.",
+      "price": "127515.05",
       "category_id": "categories[2].id"
     },
     "variant": [
       {
-        "name": "Size",
+        "name": "Color",
         "options": [
           {
-            "description": "200ml",
+            "description": "White",
             "price": "0.00"
           },
           {
-            "description": "500ml",
-            "price": "34.00"
+            "description": "Black",
+            "price": "0.00"
           }
         ]
       }
@@ -24,22 +24,22 @@
   },
   {
     "product": {
-      "name": "Cure Scrub Kit",
-      "description": "Cleanse and rejuvenate your skin with bamboo bristle scrubbing brushes.",
-      "price": "51.00",
+      "name": "Streaming Plus PC",
+      "description": "Alongside the GEFORCE RTX graphics card, all components in the Streaming PC were hand-selected to run the most popular games beautifully while smoothly operating your stream.",
+      "price": "150030.95",
       "category_id": "categories[2].id"
     },
     "variant": [
       {
-        "name": "Size",
+        "name": "Color",
         "options": [
           {
-            "description": "100ml kit",
+            "description": "White",
             "price": "0.00"
           },
           {
-            "description": "500ml kit",
-            "price": "100.00"
+            "description": "Black",
+            "price": "0.00"
           }
         ]
       }
@@ -47,22 +47,22 @@
   },
   {
     "product": {
-      "name": "Molecule Body Oil",
-      "description": "For a silky smooth finish, the Molecule Body Oil is a perfect addition for your post shower treatment.",
-      "price": "23.00",
+      "name": "Streaming Pro PC",
+      "description": "Alongside the GEFORCE RTX graphics card, all components in the Streaming PC were hand-selected to run the most popular games beautifully while smoothly operating your stream.",
+      "price": "217578.65",
       "category_id": "categories[2].id"
     },
     "variant": [
       {
-        "name": "Size",
+        "name": "Color",
         "options": [
           {
-            "description": "100ml",
+            "description": "White",
             "price": "0.00"
           },
           {
-            "description": "500ml",
-            "price": "40.00"
+            "description": "Black",
+            "price": "0.00"
           }
         ]
       }
@@ -70,22 +70,22 @@
   },
   {
     "product": {
-      "name": "Lip Fantastic",
-      "description": "A limited-edition, nourishing lip gel to top off your look and feel fantastic.",
-      "price": "24.00",
+      "name": "Redragon KUMARA K552 RGB",
+      "description": "TKL Gaming Keyboard with Outemu Blue Switches, with 18 different RGB lighting modes. All key Anti-Ghosting",
+      "price": "2999.00",
       "category_id": "categories[0].id"
     },
     "variant": [
       {
-        "name": "Size",
+        "name": "Color",
         "options": [
           {
-            "description": "30ml",
+            "description": "Black",
             "price": "0.00"
           },
           {
-            "description": "50ml",
-            "price": "35.00"
+            "description": "White",
+            "price": "700.00"
           }
         ]
       }
@@ -93,22 +93,43 @@
   },
   {
     "product": {
-      "name": "Hair Beauty Bath",
-      "description": "Made for your hair, a bath foam that brings your hair back to life.",
-      "price": "25.00",
+      "name": "Razer Viper Ultimate",
+      "description": "Ambidextrous Gaming Mouse with Razer™ HyperSpeed Wireless technology, Optical Mouse Switch.",
+      "price": "9756.14",
       "category_id": "categories[1].id"
     },
     "variant": [
       {
-        "name": "Size",
+        "name": "Model",
         "options": [
           {
-            "description": "100ml",
+            "description": "Viper Ultimate (Mouse Only)",
             "price": "0.00"
           },
           {
-            "description": "300ml",
-            "price": "18.00"
+            "description": "Viper Ultimate with Charging Dock",
+            "price": "1,501.06"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Black",
+            "price": "0.00"
+          },
+          {
+            "description": "Mercury",
+            "price": "0.00"
+          },
+          {
+            "description": "Quartz",
+            "price": "0.00"
+          },
+          {
+            "description": "Cyberpunk 2077",
+            "price": "750.53"
           }
         ]
       }
@@ -116,22 +137,35 @@
   },
   {
     "product": {
-      "name": "Shampoo & Conditioner Set",
-      "description": "Weightless, color safe, and cleansing Verb Ghost shampoo and conditioner set.",
-      "price": "65.00",
+      "name": "Glorious Model O",
+      "description": "Envisioned by a community of passionate gamers, and developed by a team who accepts nothing less than perfection - Model O will elevate your play to unimaginable heights.",
+      "price": "3001.37",
       "category_id": "categories[1].id"
     },
     "variant": [
       {
-        "name": "Size",
+        "name": "Finish",
         "options": [
           {
-            "description": "500ml kit",
+            "description": "Matte",
             "price": "0.00"
           },
           {
-            "description": "750ml kit",
-            "price": "25.00"
+            "description": "Glossy",
+            "price": "0.00"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Black",
+            "price": "0.00"
+          },
+          {
+            "description": "White",
+            "price": "0.00"
           }
         ]
       }
@@ -139,22 +173,22 @@
   },
   {
     "product": {
-      "name": "Rose Hair & Body Oil",
-      "description": "A multitasking oil for hair and body that’s perfect for those on the go.",
-      "price": "38.00",
+      "name": "Logitech G Pro X Superlight Wireless Gaming Mouse",
+      "description": "Less than 63 grams. Advanced low-latency LIGHTSPEED wireless. Sub-micron precision with HERO 25K sensor. Remove all obstacles with our lightest and fastest PRO mouse ever.",
+      "price": "11257.20",
       "category_id": "categories[1].id"
     },
     "variant": [
       {
-        "name": "Size",
+        "name": "Color",
         "options": [
           {
-            "description": "50ml",
+            "description": "Black",
             "price": "0.00"
           },
           {
-            "description": "75ml",
-            "price": "60.00"
+            "description": "White",
+            "price": "0.00"
           }
         ]
       }
@@ -162,22 +196,39 @@
   },
   {
     "product": {
-      "name": "Complexion Cream",
-      "description": "Anti-aging complexion cream for medium to dry skin. Nourish your face with a natural vitamin burst for that perfectly balanced glow.",
-      "price": "32.00",
+      "name": "ROYAL KLUDGE RK61",
+      "description": "61 Keys Wireless 60% Mechanical Gaming Keyboard",
+      "price": "3751.90",
       "category_id": "categories[0].id"
     },
     "variant": [
       {
-        "name": "Size",
+        "name": "Switch",
         "options": [
           {
-            "description": "100ml",
+            "description": "Blue Switch",
             "price": "0.00"
           },
           {
-            "description": "500ml",
-            "price": "57.00"
+            "description": "Brown Switch",
+            "price": "0.00"
+          },
+          {
+            "description": "Red Switch",
+            "price": "0.00"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Black",
+            "price": "0.00"
+          },
+          {
+            "description": "White",
+            "price": "0.00"
           }
         ]
       }
@@ -185,22 +236,35 @@
   },
   {
     "product": {
-      "name": "Eye Purity Gels",
-      "description": "Treat your skin with active pore enzymes that replenish sun damaged skin.",
-      "price": "18.00",
+      "name": "Razer Huntsman Mini",
+      "description": "60% Gaming Keyboard with Razer™ Optical Switch. Has Doubleshot PBT Keycaps With Side-Printed Secondary Functions",
+      "price": "9005.61",
       "category_id": "categories[0].id"
     },
     "variant": [
       {
-        "name": "Size",
+        "name": "Switch",
         "options": [
           {
-            "description": "100ml",
+            "description": "Clicky Optical Switch (Purple)",
             "price": "0.00"
           },
           {
-            "description": "500ml",
-            "price": "32.00"
+            "description": "Linear Optical Switch (Red)",
+            "price": "750.53"
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "options": [
+          {
+            "description": "Black",
+            "price": "0.00"
+          },
+          {
+            "description": "Mercury",
+            "price": "0.00"
           }
         ]
       }

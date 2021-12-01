@@ -1,23 +1,23 @@
 [
   {
-    "slug": "facial-products",
-    "name": "Facial Products",
+    "slug": "mechanical-keyboards",
+    "name": "Mechanical Keyboards",
     "meta": {
-      "image": "/images/collection/1.png"
+      "image": "/images/collection/mk-category.jpg"
     }
   },
   {
-    "slug": "hair-products",
-    "name": "Hair Products",
+    "slug": "gaming-mouse",
+    "name": "Gaming Mouse",
     "meta": {
-      "image": "/images/collection/2.png"
+      "image": "/images/collection/gm-category.jpg"
     }
   },
   {
-    "slug": "body-products",
-    "name": "Body Products",
+    "slug": "gaming-pcs",
+    "name": "Gaming PCs",
     "meta": {
-      "image": "/images/collection/3.png"
+      "image": "/images/collection/gpc-category.jpg"
     }
   }
 ]

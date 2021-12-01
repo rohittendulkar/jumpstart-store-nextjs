@@ -1,137 +1,117 @@
 [
   {
     "link": "products[0].id",
-    "filename": "roller-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/F1t7AVOogO3VZoxE|roller-3.jpg"
+    "filename": "streampc-2.jpg",
+    "url": "https://nzxt.com/assets/cms/34299/1627488738-streamerpc1-black-2000x2000-hero.png?dpr=1.5&fit=crop&fm=webp&h=576&w=576"
   },
   {
     "link": "products[0].id",
-    "filename": "roller-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/wXlES92euFxsMFkY|roller-2.jpg"
-  },
-  {
-    "link": "products[0].id",
-    "filename": "roller.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/a690732c1c5b93cfea68e82e43d488defb4e95b55f08c1d35daaf|roller.jpg"
+    "filename": "streampc.jpg",
+    "url": "https://nzxt.com/assets/cms/34299/1627488599-streamerpc1-white-2000x2000-hero.png?dpr=1.5&fit=crop&fm=webp&h=576&w=576"
   },
   {
     "link": "products[1].id",
-    "filename": "scrub-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/cCjV2vwHtExIPZbv|scrub-3.jpg"
+    "filename": "streampcplus-2.jpg",
+    "url": "https://nzxt.com/assets/cms/34299/1627490786-streamerpc2-black-2000x2000-hero.png?dpr=1.5&fit=crop&fm=webp&h=576&w=576"
   },
   {
     "link": "products[1].id",
-    "filename": "scrub-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/hLCTYTl6kSO2c4Wb|scrub-2.jpg"
-  },
-  {
-    "link": "products[1].id",
-    "filename": "scrub.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/19e486f3eabbc47e5b6c8c590b38a83c3832e88e5f08c2019b039|scrub.jpg"
+    "filename": "streampcplus.jpg",
+    "url": "https://nzxt.com/assets/cms/34299/1627490831-streamerpc2-white-2000x2000-hero.png?dpr=1.5&fit=crop&fm=webp&h=576&w=576"
   },
   {
     "link": "products[2].id",
-    "filename": "body-oil-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/0D6KFX4qWzioOx9W|body-oil-3.jpg"
+    "filename": "streampcpro-2.jpg",
+    "url": "https://nzxt.com/assets/cms/34299/1627492019-streamerpc3-black-2000x2000-hero.png?dpr=1.5&fit=crop&fm=webp&h=576&w=576"
   },
   {
     "link": "products[2].id",
-    "filename": "body-oil-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/aBWsr09E5CudF6Gm|body-oil-2.jpg"
-  },
-  {
-    "link": "products[2].id",
-    "filename": "body-oil.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/fa5a917796f9c3b9cecefac0e4660643e38fc0e35f08c21933272|body-oil.jpg"
+    "filename": "streampcpro.jpg",
+    "url": "https://nzxt.com/assets/cms/34299/1627492052-streamerpc3-white-2000x2000-hero.png?dpr=1.5&fit=crop&fm=webp&h=576&w=576"
   },
   {
     "link": "products[3].id",
-    "filename": "lips-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/DYFDwTnwZlJizFuc|lips-3.jpg"
+    "filename": "kumarak552-2.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/K552RGBWH_1000x.png?v=1628501831"
   },
   {
     "link": "products[3].id",
-    "filename": "lips-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/JKQvBFAbqXZZPjeD|lips-2.jpg"
-  },
-  {
-    "link": "products[3].id",
-    "filename": "lips.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/cdae2365eff5a961dd838b0505a1142b656efdf95f08c2785b59a|lips.jpg"
+    "filename": "kumarak552.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0309/3679/3226/products/K552RGB_1000x.png?v=1628501716"
   },
   {
     "link": "products[4].id",
-    "filename": "hair-beauty-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/arYtw8sGqGa7P61U|hair-beauty-3.jpg"
+    "filename": "viper-ultimate-4.jpg",
+    "url": "https://assets3.razerzone.com/CbUjCHxcgkzPei8Ja6XmM9L-vro=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb3%2Fh83%2F9099485675550%2Fcyberpunk-2077-viper-ultimate-1500x1000-1.jpg"
   },
   {
     "link": "products[4].id",
-    "filename": "hair-beauty-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/A3uuvpHj9F6j1zKN|hair-beauty-2.jpg"
+    "filename": "viper-ultimate-3.jpg",
+    "url": "https://assets3.razerzone.com/J2qDR-Q6A4Rli23_SJzYQNbN3_Q=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh26%2Fh30%2F9097609773086%2Fviper-ultimate-quartz-0.jpg"
   },
   {
     "link": "products[4].id",
-    "filename": "hair-beauty.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/b115a9b1e7206e735653a4a9a38f429ccca4186c5f08c293d7a5b|hair-beauty.jpg"
+    "filename": "viper-ultimate-2.jpg",
+    "url": "https://assets3.razerzone.com/HGM9zYZvi7mtaS3VeGzsoheixoY=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhac%2Fhd9%2F9085328097310%2Fviper-ultimate-mercury-Hero.jpg"
+  },
+  {
+    "link": "products[4].id",
+    "filename": "viper-ultimate.jpg",
+    "url": "https://assets3.razerzone.com/6v1RVaYM7gImsVUwGP7AXb6YOcw=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh78%2Fh6a%2F9081447088158%2Frazer-viper-ultimate-gallery-hero.jpg"
   },
   {
     "link": "products[5].id",
-    "filename": "hair-set-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/HHlFJIwkwvEOemWY|hair-set-3.jpg"
+    "filename": "modelo-4.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0549/2681/products/glorious_gaming_mouse_model_o_17_1000x.png?v=1599840004"
   },
   {
     "link": "products[5].id",
-    "filename": "hair-set-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/XQfbKI4c9gwrsr6g|hair-set-2.jpg"
+    "filename": "modelo-3.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0549/2681/products/glorious_gaming_mouse_model_o_22_1000x.png?v=1599840357"
   },
   {
     "link": "products[5].id",
-    "filename": "hair-set.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/e62bac70e3f29684c06bc36574c48d6afc5629ae5f08c2afc54bf|hair-set.jpg"
+    "filename": "modelo-2.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0549/2681/products/glorious_gaming_mouse_model_o_04_1000x.png?v=1599840042"
+  },
+  {
+    "link": "products[5].id",
+    "filename": "modelo.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0549/2681/products/glorious_gaming_mouse_model_o_09_2d08377b-c73b-44a0-9f6c-2cd8568ae19e_1000x.png?v=1599840129"
   },
   {
     "link": "products[6].id",
-    "filename": "hair-oil-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/Xz7dO1foIL5cX9Oj|hair-oil-3.jpg"
+    "filename": "gprox-2.jpg",
+    "url": "https://resource.logitechg.com/w_80,h_50,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-white-gallery-2.png?v=1"
   },
   {
     "link": "products[6].id",
-    "filename": "hair-oil-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/IQccguFwVEdgr3tv|hair-oil-2.jpg"
-  },
-  {
-    "link": "products[6].id",
-    "filename": "hair-oil.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/3019e70937032bb24ec27722b9b896f12531a5875f08c2cd13714|hair-oil.jpg"
+    "filename": "gprox.jpg",
+    "url": "https://images.unsplash.com/photo-1616071358846-9f34f471815d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
     "link": "products[7].id",
-    "filename": "cream-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/ISau419S4nHgwkVB|cream-3.jpg"
+    "filename": "rk61-2.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0510/7866/0274/products/RK61gamingkeyboard_1_733f2f11-b0fb-4739-b696-20e4c50b1b4a_1024x1024@2x.jpg?v=1636444649"
   },
   {
     "link": "products[7].id",
-    "filename": "cream-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/QoZTzBZBq5pOlfS4|cream-2.jpg"
-  },
-  {
-    "link": "products[7].id",
-    "filename": "cream.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/bf9cf6844f6febb697cbba7dcbbc048abc6c1cea5f08c2e616a7c|cream.jpg"
+    "filename": "rk61.jpg",
+    "url": "https://cdn.shopify.com/s/files/1/0510/7866/0274/products/RKROYALKLUDGERK61Wireless60_black_1_f441945d-36f7-40f3-a4bb-63a7a83994f9_1024x1024@2x.jpg?v=1636445063"
   },
   {
     "link": "products[8].id",
-    "filename": "gel-3.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/b1RrHSUEqRjswimc|gel-3.jpg"
+    "filename": "huntsman-mini-3.jpg",
+    "url": "https://assets3.razerzone.com/NAK25_sASX14yEK7lDpAnSpWvCU=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhc5%2Fhf9%2F9081238880286%2Fhuntsman-mini-mercury-1.jpg"
   },
   {
     "link": "products[8].id",
-    "filename": "gel-2.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/assets/glrYiFoJUvryRBHl|gel-2.jpg"
+    "filename": "huntsman-mini-2.jpg",
+    "url": "https://assets3.razerzone.com/Ucx5xbvbG1b5WZzSwmP9XObcn6Y=/78x78/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh1a%2Fhfd%2F9081238978590%2Fhuntsman-mini-black-2.jpg"
   },
   {
     "link": "products[8].id",
-    "filename": "gel.jpg",
-    "url": "https://cdn.chec.io/merchants/17851/images/c3cf1b72aaa232ba2ab495bd7485efe29cee138b5f08c2f945173|gel.jpg"
+    "filename": "huntsman-mini.jpg",
+    "url": "https://assets3.razerzone.com/RpUeXnt4tNXUKhKXFgAECtspNSE=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbc%2Fhe8%2F9081238388766%2Fhuntsman-mini-black-1.jpg"
   }
 ]

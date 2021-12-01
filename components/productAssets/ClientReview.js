@@ -1,39 +1,40 @@
-import React, { Component } from 'react';
-import ReviewList from './ReviewList';
-import Modal from '../common/atoms/Modal';
+import React, { Component } from "react";
+import ReviewList from "./ReviewList";
+import Modal from "../common/atoms/Modal";
 
 const reviews = [
   {
-    stars: '5',
-    title: 'Perfect',
-    description: 'Great fit and feel. They elevate lounging to the next level!',
-    reviewBy: 'Heidi C.',
-    date: 'December, 2019'
+    stars: "5",
+    title: "Perfect",
+    description:
+      "Love the Quality and Creativity of Jumpstart products! Receiving the same quality for a good price without visiting the store has been a good experience.",
+    reviewBy: "R10T",
+    date: "December, 2021",
   },
   {
-    stars: '3.5',
-    title: 'So comfortable!',
+    stars: "4.5",
+    title: "Love it!",
     description:
-      'I sized up just in case and kind of wished I hadn’t. Very comfortable and I live in them exclusively during the weekend.',
-    reviewBy: 'Heidi C.',
-    date: 'December, 2019'
+      "Love the Quality and Creativity of Jumpstart products! Receiving the same quality for a good price without visiting the store has been a good experience.",
+    reviewBy: "Shreyas Uttekar",
+    date: "December, 2021",
   },
   {
-    stars: '4',
-    title: 'Comfy but thin',
+    stars: "4",
+    title: "Bang for Buck",
     description:
-      'Comfortable but kinda thin for a pant. I typically wear a 32/33 pant and had to size up to XL for these to not fit like a legging. Have been wearing pretty solid for a month of so and there\'s some pilling, but not a lot. Good price for OK product.',
-    reviewBy: 'Heidi C.',
-    date: 'December, 2019'
+      "Love the Quality and Creativity of Jumpstart products! Receiving the same quality for a good price without visiting the store has been a good experience.",
+    reviewBy: "Abhay Wuntkal",
+    date: "December, 2021",
   },
   {
-    stars: '5',
-    title: 'So comfortable!',
+    stars: "5",
+    title: "Beast Performance!",
     description:
-      'I sized up just in case and kind of wished I hadn’t. Very comfortable and I live in them exclusively during the weekend.',
-    reviewBy: 'Heidi C.',
-    date: 'December, 2019'
-  }
+      "Love the Quality and Creativity of Jumpstart products! Receiving the same quality for a good price without visiting the store has been a good experience.",
+    reviewBy: "Shivam Mishra ",
+    date: "December, 2021",
+  },
 ];
 
 export default class ClientReview extends Component {
@@ -41,7 +42,7 @@ export default class ClientReview extends Component {
     super(props);
 
     this.state = {
-      open: false
+      open: false,
     };
 
     this.handleClose = this.handleClose.bind(this);
@@ -67,15 +68,9 @@ export default class ClientReview extends Component {
 
     return (
       <div id="reviews" className="custom-container pb-5">
-        <Modal
-          isOpen={open}
-          onClose={this.handleClose}
-          maxW="1000px"
-        >
+        <Modal isOpen={open} onClose={this.handleClose} maxW="1000px">
           <div className="d-flex justify-content-between align-items-center pb-3">
-            <p className="font-size-subheader font-weight-medium">
-              All reviews
-            </p>
+            <p className="font-size-subheader font-weight-medium">All reviews</p>
             <img
               tabIndex="0"
               src="/icon/cross.svg"

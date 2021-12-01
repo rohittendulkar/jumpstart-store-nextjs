@@ -1,7 +1,6 @@
 {
   "extends": "next/core-web-vitals",
   "rules": {
-    "curly": "error",
-    "quotes": ["error", "single"]
+    "curly": "error"
   }
 }
