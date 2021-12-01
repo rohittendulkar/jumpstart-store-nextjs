@@ -843,7 +843,7 @@ class CheckoutPage extends Component {
                 <div className="d-flex justify-content-between align-items-center mb-2 pt-3">
                   <p className="font-size-title font-weight-semibold">Total amount</p>
                   <p className="text-right font-weight-semibold font-size-title">
-                    $ {checkout.live ? checkout.live.total.formatted_with_code : ""}
+                    {checkout.live ? checkout.live.total.formatted_with_code : ""}
                   </p>
                 </div>
               </div>
