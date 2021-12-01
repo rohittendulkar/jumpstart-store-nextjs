@@ -50,7 +50,7 @@ class Confirm extends Component {
         <div className="d-flex justify-content-between align-items-center mb-2">
           <p>Subtotal</p>
           <p className="text-right font-weight-medium">
-            ${orderReceipt.order.subtotal.formatted_with_code}
+            {orderReceipt.order.subtotal.formatted_with_code}
           </p>
         </div>
       </div>
@@ -68,7 +68,7 @@ class Confirm extends Component {
         <div className="d-flex justify-content-between align-items-center mb-2">
           <p>Shipping</p>
           <p className="text-right font-weight-medium">
-            ${orderReceipt.order.shipping.price.formatted_with_code}
+            {orderReceipt.order.shipping.price.formatted_with_code}
           </p>
         </div>
       </div>
@@ -84,7 +84,7 @@ class Confirm extends Component {
           Order total
         </p>
         <p className="text-right font-weight-semibold font-size-title">
-          ${orderReceipt.order.total.formatted_with_code}
+          {orderReceipt.order.total.formatted_with_code}
         </p>
       </div>
     );
